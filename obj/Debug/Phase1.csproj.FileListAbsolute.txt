@@ -1,7 +1,0 @@
-D:\Important Data\Programming Projects C#\LPE EdgeSucks\Phase1\bin\Debug\Phase1.exe.config
-D:\Important Data\Programming Projects C#\LPE EdgeSucks\Phase1\bin\Debug\Phase1.exe
-D:\Important Data\Programming Projects C#\LPE EdgeSucks\Phase1\bin\Debug\Phase1.pdb
-D:\Important Data\Programming Projects C#\LPE EdgeSucks\Phase1\obj\Debug\Phase1.csproj.AssemblyReference.cache
-D:\Important Data\Programming Projects C#\LPE EdgeSucks\Phase1\obj\Debug\Phase1.csproj.CoreCompileInputs.cache
-D:\Important Data\Programming Projects C#\LPE EdgeSucks\Phase1\obj\Debug\Phase1.exe
-D:\Important Data\Programming Projects C#\LPE EdgeSucks\Phase1\obj\Debug\Phase1.pdb
